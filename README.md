@@ -1,4 +1,4 @@
-# hello-world
+# 如何上传本地文件到github
 小白第一次使用GitHub
 本地库上传方法：
 1.git init //把这个目录变成Git可以管理的仓库
